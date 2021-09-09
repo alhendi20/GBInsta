@@ -1,9 +1,9 @@
-Version 80. Changelog:
+Version 90. Changelog:
 
->[Base] New Base update 184.0.0.30.117
->[Fixed ] Antivirus Issue
->[Fixed] Hanging Issue
->[Added] Chat lock
->[Remove] Action Bar and NavBar Setting Again
->[Added] Remix Feature
->Fixed many more issues.
+>[Fixed] Crashing issue when updating follower list
+>[Fixed] Icon duplication problem when installing the update
+>[Fixed] The problem of the application disappearing in the list of applications in Huawei devices
+>[Fixed] The crash problem when clicking on the website link in the bio
+>[Added] the Arabic language in the translations section
+>[Fixed] The problem of some words appearing in English
+>[Fixed] The problem of the collapse when registering another account in the night mode.
