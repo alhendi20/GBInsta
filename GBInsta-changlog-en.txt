@@ -1,7 +1,9 @@
-Version 2.00 Changelog:
+Version 2.10 Changelog:
 
->[Base] 205.0.0.34.114
->[Added] Hide Chat
->[Fixed] Heating Issue
->[Fixed] battery consuming
->[Fixed] all problems
+> [Base Update] 215.0.0.27.359
+> [Added] Icon change feature
+> [Added] All the new Instagram features
+> [Fix] Story or Rails upload problem
+> [Fixed] All crash problems
+> [Fix] Copy and Restore
+> [More] Discovery fixes and improvements
